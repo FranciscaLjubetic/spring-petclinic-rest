@@ -11,7 +11,7 @@ The [spring-petclinic-angular project](https://github.com/spring-petclinic/sprin
 
 ## Francisca`s assets:
 
-### GitHub`s direction
+### GitHub`s Url
 ```
 https://github.com/FranciscaLjubetic/spring-petclinic-rest.git
 ```
