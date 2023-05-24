@@ -265,7 +265,14 @@
                 <configuration>
                     <includes>
                         <include>**/*Test.java</include>
-                        <include>**/*Tests.java</include>
+                        <include>**/*Test*.java</include>
+                        <include>**/Test*.java</include>
+                        <include>**/*test.java</include>
+                        <include>**/*test*.java</include>
+                        <include>**/test*.java</include>
+                        <include>**/*tests.java</include>
+                        <include>**/*tests*.java</include>
+                        <include>**/tests*.java</include>
                     </includes>
                 </configuration>
             </plugin>
