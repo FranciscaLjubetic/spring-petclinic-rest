@@ -194,27 +194,6 @@
                 </executions>
             </plugin>
 
-            <plugin>
-                <groupId>org.jfrog.buildinfo</groupId>
-                <artifactId>artifactory-maven-plugin</artifactId>
-                <version>3.12.1</version>
-                <configuration>
-                    <artifactory>
-                    <url>http://45.56.80.54:8082/</url>
-                    <username>admin</username>
-                    <password>Admin2023&lt;3</password>
-                    </artifactory>
-                    
-                </configuration>
-                <executions>
-                    <execution>
-                    <goals>
-                        <goal>publish</goal>
-                    </goals>
-                    </execution>
-                </executions>
-            </plugin>
-
 
             <plugin>
                 <groupId>org.jacoco</groupId>
