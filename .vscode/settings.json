@@ -1,4 +1,8 @@
 {
     "xml.downloadExternalResources.enabled": true,
-    "java.configuration.updateBuildConfiguration": "disabled"
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "franciscaesmagnifica",
+        "projectKey": "franciscaesmagnifica"
+    }
 }
